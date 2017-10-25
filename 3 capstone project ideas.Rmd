@@ -1,0 +1,11 @@
+# *3 Capstone project proposals by Siby Varghese*
+
+-----
+
+1.    In the last 50 years, USA has witnessed 398 mass shooting that has led to 196 deaths and 2488 injured. Proposal to study the data and find how the mental health, gender, location and other variables effect the mass shooting in USA and also try to predict pattern of the shooting so that we can ensure more crowd safety. I would be using the [data](https://www.kaggle.com/zusmani/us-mass-shootings-last-50-years/data) for US mass shooting in the past 50 years (1966- 2017). 
+
+
+2.    Parents always want their children to get the best education possible so that they can succeed in life and earn more money. Proposal to analyze the trend of major in college and predict the most popular job in the future. I will be using the [data](https://www.kaggle.com/wsj/college-salaries/data) from different colleges around USA which is provided by PayScale Inc.  
+
+
+3.    Every year lot of foreign nationals apply for H1 B visa to fulfill their dream to work in USA. For a foreign national to apply for H1-B visa, an US employer must offer a job and petition for H-1B visa with the US immigration department.  I  propose to study the data to find how the types of jobs have changed and the immigrants have increased. Also will find the potential trend of jobs and from which countries will more immigrants come to USA in the near future. For this I have the H1 B petitions [data](https://www.kaggle.com/nsharan/h-1b-visa/data) from 2011 to 2016.
